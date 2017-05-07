@@ -1,0 +1,4 @@
+﻿  Скопировано файлов:         0.
+  Процесс не может получить доступ к файлу, так как этот файл занят другим процессом.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(123,5): error MSB3073: выход из команды "copy /Y "C:\Users\haker\Desktop\papaka\CHUSIC\CHUSIC\Libs\ZeroMQ 4.0.4\bin\libzmq-v120-mt-gd-4_0_4.dll" "C:\Users\haker\Desktop\papaka\CHUSIC\x64\Debug\"
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(123,5): error MSB3073: :VCEnd" с кодом 1.

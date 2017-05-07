@@ -1,0 +1,25 @@
+﻿  Скопировано файлов:         1.
+  utility.cpp
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(60): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(64): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(68): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(89): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "std::size_t"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(89): note: рекомендуется использовать "%zu" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(171): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(171): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(211): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "std::size_t"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(211): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(213): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "std::size_t"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(213): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(144): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(198): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(198): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(218): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(218): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(225): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(225): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(232): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\utility.cpp(232): note: рекомендуется использовать "%zd" в строке форматирования
+  LINK : не найден или не выполнена сборка C:\Users\haker\Desktop\papaka\CHUSIC\x64\Debug\Utility.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Utility.vcxproj -> C:\Users\haker\Desktop\papaka\CHUSIC\x64\Debug\Utility.exe
+  Utility.vcxproj -> C:\Users\haker\Desktop\papaka\CHUSIC\x64\Debug\Utility.pdb (Partial PDB)

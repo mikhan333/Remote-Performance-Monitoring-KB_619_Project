@@ -1,0 +1,2 @@
+﻿  agent.cpp
+agent.cpp(4): fatal error C1083: Не удается открыть файл включение: zmq.h: No such file or directory
