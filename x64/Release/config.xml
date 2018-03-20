@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<params>
+  <waitT> 10000 </waitT>
+  <user>
+    <name> CONST_ALL </name>
+    <maxProcessNumber> 100 </maxProcessNumber>
+    <sortBy> 0 </sortBy>
+  </user>      
+</params>

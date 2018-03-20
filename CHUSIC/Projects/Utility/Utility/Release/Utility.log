@@ -1,0 +1,2 @@
+﻿  utility.cpp
+utility.cpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory

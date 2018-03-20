@@ -1,0 +1,35 @@
+﻿  Скопировано файлов:         1.
+  utility.cpp
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(61): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(65): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(90): warning C4477: "printf": в строке форматирования "%u" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "std::size_t"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(90): note: рекомендуется использовать "%zu" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(172): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(172): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(205): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "std::size_t"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(205): note: рекомендуется использовать "%zd" в строке форматирования
+c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(207): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "std::size_t"
+  c:\users\haker\desktop\papaka\chusic\chusic\projects\utility\utility\clients.h(207): note: рекомендуется использовать "%zd" в строке форматирования
+utility.cpp(66): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  utility.cpp(66): note: рекомендуется использовать "%zd" в строке форматирования
+utility.cpp(85): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  utility.cpp(85): note: рекомендуется использовать "%zd" в строке форматирования
+utility.cpp(92): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  utility.cpp(92): note: рекомендуется использовать "%zd" в строке форматирования
+utility.cpp(99): warning C4477: "scanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "size_t *"
+  utility.cpp(99): note: рекомендуется использовать "%zd" в строке форматирования
+utility.cpp(211): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+utility.cpp(246): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+utility.cpp(203): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+utility.cpp(295): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+utility.cpp(328): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+utility.cpp(287): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "std::string"
+utility.cpp(367): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  3 of 450 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Utility.vcxproj -> C:\Users\haker\Desktop\papaka\CHUSIC\x64\Release\Utility.exe
+  Utility.vcxproj -> C:\Users\haker\Desktop\papaka\CHUSIC\x64\Release\Utility.pdb (Full PDB)
